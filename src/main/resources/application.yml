@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: cfucli
+cfucli:
+  endpoint: http://localhost:8080
+  # endpoint: https://pcfusage.fouryour.cfmr.site/
